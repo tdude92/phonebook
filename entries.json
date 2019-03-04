@@ -1,1 +1,27 @@
-{}
+[
+    {
+        "name": "Pablo",
+        "city": "Mexico",
+        "phone": 1234123412
+    },
+    {
+        "name": "Tony Stark",
+        "city": "New York",
+        "phone": 1234567890
+    },
+    {
+        "name": "Leonardo Da Vinci",
+        "city": "Wakandaland",
+        "phone": 4321921234
+    },
+    {
+        "name": "iL deZ",
+        "city": "Loo, Belgium",
+        "phone": 1234123456
+    },
+    {
+        "name": "Bobo",
+        "city": "Boboland",
+        "phone": 1234123212
+    }
+]
